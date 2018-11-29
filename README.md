@@ -1,6 +1,11 @@
 hello-world
 ===========
 
+<p align="center">
+  <a href="#running-locally">Running locally</a> •
+  <a href="#deploying-to-Docker-Cloud">Deploying to Docker Cloud</a>
+</p>
+
 [![Deploy to Docker Cloud](https://files.cloud.docker.com/images/deploy-to-dockercloud.svg)](https://cloud.docker.com/stack/deploy/)
 
 Sample docker image to test docker deployments
